@@ -28,4 +28,4 @@ Using the bare-bones approach to make the page as lightweight as possible.
 
 ## Usage/How to run
 
-Pull and live-server the project or [`view the live site`](https://www.evgeny-nik.github.io/)
+Pull and live-server the project or [`view the live site`](https://evgeny-nik.github.io/)
